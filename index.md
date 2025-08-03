@@ -36,6 +36,8 @@ Clique para ler:
 ---
 
 ### ✝️ Fundamentos da Fé
+
+- [FUNDAMENTO DA FÉ](FUNDAMENTOS/1_FUNDAMENTO_DA_FÉ.md)
 - [As Alianças de Deus com a Humanidade](fundamentos/aliancas.md)
 - [A Nova Aliança em Cristo](fundamentos/nova_alianca.md)
 - [O Evangelho do Reino](fundamentos/evangelho_reino.md)
@@ -43,6 +45,8 @@ Clique para ler:
 ---
 
 ### 🕊️ Testemunhos e Revelações
+
+- [NASCER DO ESPÍRITO](TESTEMUNHOS/1_NASCER_DO_ESPÍRITO.md)
 - [A Presença é o Guia](testemunhos/lenon.md)
 - [O Despertar Profético](testemunhos/despertar.md)
 
