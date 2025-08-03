@@ -27,6 +27,10 @@ Clique para ler:
 - [JESUS, O REI, O TEMPLO](PROFETAS-DO-ZELO/6_JESUS_O_REI_E_TEMPLO_VIVO.md)
 - [A ÚLTIMA IGREJA](PROFETAS-DO-ZELO/7_A_ÚLTIMA_IGREJA.md)
 - [O NOVO NEEMIAS](PROFETAS-DO-ZELO/8_O_NOVO_NEEMIAS.md)
+
+- ### ✨ Transição para os Rolos Vivos
+
+- [📖 A Arca se Abre – Transição para os Rolos de Vivência](Arca-Da-Nova-Aliança/PORTA_DA_ARCA.md)
 - … *(em breve: todos os 60+ rolos)*
 
 ---
