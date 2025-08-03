@@ -1,4 +1,4 @@
-# 📜 Rolo 1 – DEDICAÇÃO AO CORDEIRO
+# 📜 Rolo 1 – DEDICATÓRIA AO CORDEIRO
 
 **“Digno é o Cordeiro que foi morto,  
 de receber o poder, e riquezas, e sabedoria,  
