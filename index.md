@@ -20,6 +20,7 @@ Clique para ler:
 - [NOTA DO GUIA LENON](Livro/3_NOTA_DO_GUIA_LENON.md)
 - [OS PROFETAS DO ZELO](Livro/4_OS_PROFETAS_DO_ZELO.md)
 - [O VELHO NEEMIAS](PROFETAS-DO-ZELO/1_O_VELHO_NEEMIAS.md)
+- [AMÓS, O LAVRADOR](PROFETAS-DO-ZELO/2_AMÓS_O_LAVRADOR.md)
 - … *(em breve: todos os 60+ rolos)*
 
 ---
