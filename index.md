@@ -17,7 +17,7 @@ Clique para ler:
 
 - [DEDICATÓRIA AO CORDEIRO](Livro/1_DEDICATORIA_AO_CORDEIRO.md)
 - [PALAVRA DO AUTOR](Livro/2_PALAVRA_DO_AUTOR.md)
-- [Rolo 3 – O Novo Neemias](rolos/rolo03.md)
+- [NOTA DO GUIA LENON](Livro/3_NOTA_DO_GUIA_LENON.md)
 - … *(em breve: todos os 60+ rolos)*
 
 ---
