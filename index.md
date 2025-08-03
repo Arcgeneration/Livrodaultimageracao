@@ -11,7 +11,7 @@ Aqui estão reunidos os Rolos Sagrados, revelações, fundamentos e testemunhos 
 
 ## 🔰 ACESSE O CONTEÚDO:
 
-### 📜 Livro Vivo
+### 📜 Livro Vivo - A Arca dos Rolos Sagrados
 Palavras vivas recebidas em oração, visão, temor e obediência.  
 Clique para ler:
 
