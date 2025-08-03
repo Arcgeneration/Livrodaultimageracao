@@ -59,3 +59,6 @@ Conteúdos traduzidos para inglês, francês, espanhol e mais.
 🕊️ Cada palavra é um altar.
 
 **— A Arca já se move. —**
+
+
+[SOBRE](Direitos-De-Publicação/SOBRE.md)
