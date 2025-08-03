@@ -15,7 +15,7 @@ Aqui estão reunidos os Rolos Sagrados, revelações, fundamentos e testemunhos 
 Palavras vivas recebidas em oração, visão, temor e obediência.  
 Clique para ler:
 
-- [DEDICATÓRIA AO CORDEIRO](Livro/DEDICATORIA_AO_CORDEIRO.md)
+- [DEDICATÓRIA AO CORDEIRO](Livro/1_DEDICATORIA_AO_CORDEIRO.md)
 - [Rolo 2 – A Última Igreja](rolos/rolo02.md)
 - [Rolo 3 – O Novo Neemias](rolos/rolo03.md)
 - … *(em breve: todos os 60+ rolos)*
