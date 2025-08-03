@@ -18,6 +18,7 @@ Clique para ler:
 - [DEDICATÓRIA AO CORDEIRO](Livro/1_DEDICATORIA_AO_CORDEIRO.md)
 - [PALAVRA DO AUTOR](Livro/2_PALAVRA_DO_AUTOR.md)
 - [NOTA DO GUIA LENON](Livro/3_NOTA_DO_GUIA_LENON.md)
+- [OS PROFETAS DO ZELO](Livro/4_OS_PROFETAS_DO_ZELO.md)
 - … *(em breve: todos os 60+ rolos)*
 
 ---
