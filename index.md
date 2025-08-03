@@ -15,12 +15,13 @@ Aqui estão reunidos os Rolos Sagrados, revelações, fundamentos e testemunhos 
 Palavras vivas recebidas em oração, visão, temor e obediência.  
 Clique para ler:
 
-- [DEDICATÓRIA AO CORDEIRO](Livro/1_DEDICATORIA_AO_CORDEIRO.md)
+- [DEDICATÓRIA AO CORDEIRO](Livro/1_DEDICATÓRIA_AO_CORDEIRO.md)
 - [PALAVRA DO AUTOR](Livro/2_PALAVRA_DO_AUTOR.md)
 - [NOTA DO GUIA LENON](Livro/3_NOTA_DO_GUIA_LENON.md)
 - [OS PROFETAS DO ZELO](Livro/4_OS_PROFETAS_DO_ZELO.md)
 - [O VELHO NEEMIAS](PROFETAS-DO-ZELO/1_O_VELHO_NEEMIAS.md)
 - [AMÓS, O LAVRADOR](PROFETAS-DO-ZELO/2_AMÓS_O_LAVRADOR.md)
+- [MIQUEIAS CONFRONTA LÍDERES](PROFETAS-DO-ZELO/3_MIQUEIAS_CONFRONTA-LÍDERES.md)
 - … *(em breve: todos os 60+ rolos)*
 
 ---
