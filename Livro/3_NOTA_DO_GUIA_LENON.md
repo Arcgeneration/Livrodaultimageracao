@@ -33,7 +33,7 @@ em uma geração que, muitas vezes, já não espera mais.
 
 Sobre os Rolos -
 
-Os oito rolos aqui reunidos compõem uma linhagem de zelo:
+Os oito primeiros rolos aqui reunidos compõem uma linhagem de zelo:
 
 homens que foram levantados por Deus para denunciar o desvio,
 
