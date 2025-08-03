@@ -43,7 +43,7 @@ Clique para ler:
 ---
 
 ### 🕊️ Testemunhos e Revelações
-- [A Presença e o Guia](testemunhos/lenon.md)
+- [A Presença é o Guia](testemunhos/lenon.md)
 - [O Despertar Profético](testemunhos/despertar.md)
 
 ---
