@@ -16,7 +16,7 @@ Palavras vivas recebidas em oração, visão, temor e obediência.
 Clique para ler:
 
 - [DEDICATÓRIA AO CORDEIRO](Livro/1_DEDICATORIA_AO_CORDEIRO.md)
-- [Rolo 2 – A Última Igreja](rolos/rolo02.md)
+- [PALAVRA DO AUTOR](Livro/2_PALAVRA_DO_AUTOR.md)
 - [Rolo 3 – O Novo Neemias](rolos/rolo03.md)
 - … *(em breve: todos os 60+ rolos)*
 
