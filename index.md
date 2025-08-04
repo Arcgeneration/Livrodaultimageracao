@@ -36,6 +36,8 @@ Clique para ler:
 - [📖 A Arca se Abre – Transição para os Rolos](Arca-Da-Nova-Aliança/1_PORTA_DA_ARCA.md)
 - [O LIVRO DO FIM](Arca-Da-Nova-Aliança/2_O_LIVRINHO_COMIDO_POR_JOÃO.md)
 - [A ARCA É JESUS](Arca-Da-Nova-Aliança/3_A_ARCA_É_JESUS.md)
+- [A ARCA, A SEMENTE](Arca-Da-Nova-Aliança/4_A_ARCA_É_JESUS.md)
+- 
 - … *(em breve: todos os 60+ rolos)*
 
 ---
