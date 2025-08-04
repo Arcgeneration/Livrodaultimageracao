@@ -52,7 +52,7 @@ Clique para ler:
 - [FUNDAMENTO DA FÉ](FUNDAMENTOS/1_FUNDAMENTO_DA_FÉ.md)
 - [As Alianças de Deus com a Humanidade](FUNDAMENTOS/2_As_Alianças_De_Deus_Com_O_Homem.md)
 - [A Nova Aliança em Cristo](FUNDAMENTOS/3_A_NOVA_ALIANÇA_EM_CRISTO.md)
-- [O Evangelho do Reino](fundamentos/evangelho_reino.md)
+- [O MISTÉRIO REVELADO](FUNDAMENTOS/4_O_MISTÉRIO.md)
 
 ---
 
