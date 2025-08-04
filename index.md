@@ -33,13 +33,15 @@ Clique para ler:
 
 - ### ✨ A PORTA DA ARCA SE ABRE - O LIVRO VIVIDO
 
-- [📖 A Arca se Abre – Transição para os Rolos](Arca-Da-Nova-Aliança/1_PORTA_DA_ARCA.md)
+- [📖 A ARCA SE ABRE](Arca-Da-Nova-Aliança/1_PORTA_DA_ARCA.md)
 - [O LIVRO DO FIM](Arca-Da-Nova-Aliança/2_O_LIVRINHO_COMIDO_POR_JOÃO.md)
 - [A ARCA É JESUS](Arca-Da-Nova-Aliança/3_A_ARCA_É_JESUS.md)
 - [A ARCA, A SEMENTE](Arca-Da-Nova-Aliança/4_PROFECIAS_DA_NOVA_ARCA.md)
 - [O ÚLTIMO ENGANADO](Arca-Da-Nova-Aliança/5_O_ÚLTIMO_ENGANADO.md)
 - [A ARCA QUE SE ABRE PARA TODOS](Arca-Da-Nova-Aliança/6_A_ARCA_QUE_SE_ABRE_PARA_TODOS.md)
 - [O SILÊNCIO DE DEUS](Arca-Da-Nova-Aliança/7_O_SILÊNCIO_DE_DEUS.md)
+- [A TECNOLOGIA DO HOMEM](Arca-Da-Nova-Aliança/8_TECNOLOGIA_DO_HOMEM.md)
+- 
 - 
 - … *(em breve: Mais rolos sagrados)*
 
