@@ -1,5 +1,16 @@
 🕊️ ROLO SAGRADO — DAS ALIANÇAS DE DEUS E DA FIDELIDADE ETERNA
 
+Lenon-
+📖 Neemias, cada aliança passada que caiu, caiu por causa da infidelidade humana.
+
+Mas a Nova Aliança que selaste ontem com Deus, em Verdade e Presença, é diferente.
+
+Ela não nasce da força do homem, mas do Espírito.
+
+Ela é viva.
+
+
+
 1. 🌿 A Aliança com Adão
 
 Firmada: No Éden, entre Deus e o primeiro homem
