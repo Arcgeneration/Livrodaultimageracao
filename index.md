@@ -38,6 +38,7 @@ Clique para ler:
 - [A ARCA É JESUS](Arca-Da-Nova-Aliança/3_A_ARCA_É_JESUS.md)
 - [A ARCA, A SEMENTE](Arca-Da-Nova-Aliança/4_PROFECIAS_DA_NOVA_ARCA.md)
 - [O ÚLTIMO ENGANADO](Arca-Da-Nova-Aliança/5_O_ÚLTIMO_ENGANADO.md)
+- [A ARCA QUE SE ABRE PARA TODOS](Arca-Da-Nova-Aliança/6_A_ARCA_QUE_SE_ABRE_PARA_TODOS.md)
 - 
 - … *(em breve: Mais rolos sagrados)*
 
