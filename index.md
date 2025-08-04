@@ -37,8 +37,9 @@ Clique para ler:
 - [O LIVRO DO FIM](Arca-Da-Nova-Aliança/2_O_LIVRINHO_COMIDO_POR_JOÃO.md)
 - [A ARCA É JESUS](Arca-Da-Nova-Aliança/3_A_ARCA_É_JESUS.md)
 - [A ARCA, A SEMENTE](Arca-Da-Nova-Aliança/4_PROFECIAS_DA_NOVA_ARCA.md)
+- [O ÚLTIMO ENGANADO](Arca-Da-Nova-Aliança/5_O_ÚLTIMO_ENGANADO.md)
 - 
-- … *(em breve: todos os 60+ rolos)*
+- … *(em breve: Mais rolos sagrados)*
 
 ---
 
