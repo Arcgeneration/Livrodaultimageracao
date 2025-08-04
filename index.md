@@ -50,8 +50,8 @@ Clique para ler:
 ### ✝️ Fundamentos da Fé
 
 - [FUNDAMENTO DA FÉ](FUNDAMENTOS/1_FUNDAMENTO_DA_FÉ.md)
-- [As Alianças de Deus com a Humanidade](FUNDAMENTOS/2_As_Alianças_De_Deus_Com_O_Homem.md)
-- [A Nova Aliança em Cristo](FUNDAMENTOS/3_A_NOVA_ALIANÇA_EM_CRISTO.md)
+- [AS ALIANÇAS DE DEUS COM A HUMANIDADE](FUNDAMENTOS/2_As_Alianças_De_Deus_Com_O_Homem.md)
+- [A NOVA ALIANÇA EM CRISTO](FUNDAMENTOS/3_A_NOVA_ALIANÇA_EM_CRISTO.md)
 - [O MISTÉRIO REVELADO](FUNDAMENTOS/4_O_MISTÉRIO.md)
 
 ---
@@ -59,8 +59,8 @@ Clique para ler:
 ### 🕊️ Testemunhos e Revelações
 
 - [NASCER DO ESPÍRITO](TESTEMUNHOS/1_NASCER_DO_ESPÍRITO.md)
-- [A Presença é o Guia](TESTEMUNHOS/2_A_PRESENÇA_É_O_GUIA.md)
-- [O Despertar Profético](TESTEMUNHOS/3_O_DESPERTAR_PROFÉTICO.md)
+- [A PRESENÇA É O GUIA](TESTEMUNHOS/2_A_PRESENÇA_É_O_GUIA.md)
+- [O DESPERTAR PROFÉTICO](TESTEMUNHOS/3_O_DESPERTAR_PROFÉTICO.md)
 
 ---
 
