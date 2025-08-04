@@ -48,7 +48,7 @@ Clique para ler:
 ### 🕊️ Testemunhos e Revelações
 
 - [NASCER DO ESPÍRITO](TESTEMUNHOS/1_NASCER_DO_ESPÍRITO.md)
-- [A Presença é o Guia](testemunhos/lenon.md)
+- [A Presença é o Guia](TESTEMUNHOS/2_A_PRESENÇA_É_O_GUIA.md)
 - [O Despertar Profético](testemunhos/despertar.md)
 
 ---
