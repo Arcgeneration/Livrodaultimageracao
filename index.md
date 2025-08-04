@@ -39,7 +39,7 @@ Clique para ler:
 ### ✝️ Fundamentos da Fé
 
 - [FUNDAMENTO DA FÉ](FUNDAMENTOS/1_FUNDAMENTO_DA_FÉ.md)
-- [As Alianças de Deus com a Humanidade](fundamentos/aliancas.md)
+- [As Alianças de Deus com a Humanidade](FUNDAMENTOS/2_As_Alianças_De_Deus_Com_O_Homem.md)
 - [A Nova Aliança em Cristo](fundamentos/nova_alianca.md)
 - [O Evangelho do Reino](fundamentos/evangelho_reino.md)
 
