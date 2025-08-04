@@ -204,15 +204,3 @@ profetiza outra vez.
 
 Agora é tempo de profetizar outra vez.
 
-
---
-
-Protegido com Tuta Mail:
-
-https://tuta.com/free-email
-
-
-
-3/08/2025, 21:45 por lastgeneration@tutamail.com:
-
-
