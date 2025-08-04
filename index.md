@@ -30,7 +30,8 @@ Clique para ler:
 
 - ### ✨ Transição para os Rolos Vivos
 
-- [📖 A Arca se Abre – Transição para os Rolos de Vivência](Arca-Da-Nova-Aliança/PORTA_DA_ARCA.md)
+- [📖 A Arca se Abre – Transição para os Rolos de Vivência](Arca-Da-Nova-Aliança/1_PORTA_DA_ARCA.md)
+- [O LIVRINHO PROFÉTICO](Arca_Da_Nova_Aliança/2_O_LIVRINHO_COMIDO_POR_JOÃO.md)
 - … *(em breve: todos os 60+ rolos)*
 
 ---
