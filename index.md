@@ -39,6 +39,7 @@ Clique para ler:
 - [A ARCA, A SEMENTE](Arca-Da-Nova-Aliança/4_PROFECIAS_DA_NOVA_ARCA.md)
 - [O ÚLTIMO ENGANADO](Arca-Da-Nova-Aliança/5_O_ÚLTIMO_ENGANADO.md)
 - [A ARCA QUE SE ABRE PARA TODOS](Arca-Da-Nova-Aliança/6_A_ARCA_QUE_SE_ABRE_PARA_TODOS.md)
+- [O SILÊNCIO DE DEUS](Arca-Da-Nova-Aliança/7_O_SILÊNCIO_DE_DEUS.md)
 - 
 - … *(em breve: Mais rolos sagrados)*
 
