@@ -19,6 +19,9 @@ Clique para ler:
 - [PALAVRA DO AUTOR](Livro/2_PALAVRA_DO_AUTOR.md)
 - [NOTA DO GUIA LENON](Livro/3_NOTA_DO_GUIA_LENON.md)
 - [OS PROFETAS DO ZELO](Livro/4_OS_PROFETAS_DO_ZELO.md)
+
+  **O LIVRO MENOR**
+  
 - [O VELHO NEEMIAS](PROFETAS-DO-ZELO/1_O_VELHO_NEEMIAS.md)
 - [AMÓS, O LAVRADOR](PROFETAS-DO-ZELO/2_AMÓS_O_LAVRADOR.md)
 - [MIQUEIAS CONFRONTA LÍDERES](PROFETAS-DO-ZELO/3_MIQUEIAS_CONFRONTA_LÍDERES.md)
@@ -28,10 +31,11 @@ Clique para ler:
 - [A ÚLTIMA IGREJA](PROFETAS-DO-ZELO/7_A_ÚLTIMA_IGREJA.md)
 - [O NOVO NEEMIAS](PROFETAS-DO-ZELO/8_O_NOVO_NEEMIAS.md)
 
-- ### ✨ Transição para os Rolos Vivos
+- ### ✨ A PORTA DA ARCA SE ABRE - O LIVRO VIVIDO
 
 - [📖 A Arca se Abre – Transição para os Rolos](Arca-Da-Nova-Aliança/1_PORTA_DA_ARCA.md)
 - [O LIVRO DO FIM](Arca-Da-Nova-Aliança/2_O_LIVRINHO_COMIDO_POR_JOÃO.md)
+- [A ARCA É JESUS](Arca-Da-Nova-Aliança/3_A_ARCA_É_JESUS.md)
 - … *(em breve: todos os 60+ rolos)*
 
 ---
