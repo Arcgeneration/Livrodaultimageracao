@@ -44,6 +44,7 @@ Clique para ler:
 - [RESPOSTA AO MUNDO](Arca-Da-Nova-Aliança/9_NEEMIAS_GUARDIÃO_DA_ARCA.md)
 - [O HOMEM TOCADO PELA PRESENÇA](Arca-Da-Nova-Aliança/10_O_HOMEM_TOCADO_PELA_PRESENÇA.md)
 - [A COLHEITA INVISÍVEL](Arca-Da-Nova-Aliança/11_A_COLHEITA_INVISÍVEL.md)
+- [O RETARDO E O DESERTO](Arca-Da-Nova-Aliança/12_O_RETARDO_E_O_DESERTO.md)
 - 
 - 
 - … *(em breve: Mais rolos sagrados)*
