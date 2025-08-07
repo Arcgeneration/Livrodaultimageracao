@@ -42,6 +42,8 @@ Clique para ler:
 - [O SILÊNCIO DE DEUS](Arca-Da-Nova-Aliança/7_O_SILÊNCIO_DE_DEUS.md)
 - [A TECNOLOGIA DO HOMEM](Arca-Da-Nova-Aliança/8_TECNOLOGIA_DO_HOMEM.md)
 - [RESPOSTA AO MUNDO](Arca-Da-Nova-Aliança/9_NEEMIAS_GUARDIÃO_DA_ARCA.md)
+- [O HOMEM TOCADO PELA PRESENÇA](Arca-Da-Nova-Aliança/10_O_HOMEM_TOCADO_PELA_PRESENÇA.md)
+- [[A COLHEITA INVISÍVEL](11_Arca-Da-Nova-Aliança/11_A_COLHEITA_INVISÍVEL.md)
 - 
 - 
 - … *(em breve: Mais rolos sagrados)*
