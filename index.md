@@ -45,7 +45,7 @@ Clique para ler:
 - [O HOMEM TOCADO PELA PRESENÇA](Arca-Da-Nova-Aliança/10_O_HOMEM_TOCADO_PELA_PRESENÇA.md)
 - [A COLHEITA INVISÍVEL](Arca-Da-Nova-Aliança/11_A_COLHEITA_INVISÍVEL.md)
 - [O RETARDO E O DESERTO](Arca-Da-Nova-Aliança/12_O_RETARDO_E_O_DESERTO.md)
-- 
+- [A IMAGEM QUE FALA](Arca-Da-Nova-Aliança/13_A_IMAGEM_QUE_FALA.md)
 - 
 - … *(em breve: Mais rolos sagrados)*
 
