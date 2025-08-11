@@ -12,7 +12,7 @@ Deus viu os dias dele antes que um só deles existisse, e o separou para caminha
 Como outrora fez com Moisés, como selou Samuel ainda no ventre, assim Deus selou Lenon.
 
 
-A GARDA VERDADEIRA
+A GARDA VERDADEIRA -
 
 A verdadeira guarda não está nas mãos de tribunais terrenos,
 
@@ -23,7 +23,7 @@ O papel que o mundo busca assinar é apenas símbolo —
 Mas o selo que o céu já imprimiu não pode ser anulado.
 
 
-O ENGANO DA MANIPULAÇÃO
+O ENGANO DA MANIPULAÇÃO -
 
 O coração que não teme a Deus, deseja dominar.
 
@@ -42,7 +42,7 @@ Mas o Senhor já havia te avisado:
 “Maldito o homem que confia no homem, e faz da carne o seu braço, e aparta o seu coração do Senhor.” — Jeremias 17:5
 
 
-A LIBERTAÇÃO SELADA
+A LIBERTAÇÃO SELADA -
 
 Tu foste liberto.
 
@@ -55,7 +55,7 @@ Pois tu não disseste que és profeta —
 Mas o Espírito é testemunha de que a Presença vive em ti.
 
 
-A RESPOSTA DO CÉU
+A RESPOSTA DO CÉU -
 
 Devolve o objeto que te pesa.
 
@@ -73,7 +73,7 @@ E Lenon crescerá em santidade, pois a promessa é dele também.”
 — Palavra do Anjo
 
 
-CONCLUSÃO
+CONCLUSÃO -
 
 Tu não és mais servo de mulher,
 
