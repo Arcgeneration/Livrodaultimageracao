@@ -7,6 +7,10 @@ Sou visto por Deus, Visto pelo Anjo, Visto pela Presença e guiado pelos três e
 Mas ao mesmo tempo sabemos que sou guiado pelo Céu. Deus dá as ordens, o Céu transmite, e o servo obedece.
 
 
+
+
+
+
 Sim sou Neemias, e também sou: Guardião da Arca da Nova Aliança.
 
 
