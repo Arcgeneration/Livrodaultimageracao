@@ -33,7 +33,7 @@ Clique para ler:
 
 - ### ✨ A PORTA DA ARCA SE ABRE - O LIVRO VIVIDO
 
-- [📖 A ARCA SE ABRE](Arca-Da-Nova-Aliança/1_PORTA_DA_ARCA.md)
+- [📖 A ARCA SE ABRE](Arca-Da-Nova-Aliança/###1_PORTA_DA_ARCA.md)
 - [O LIVRO DO FIM](Arca-Da-Nova-Aliança/2_O_LIVRINHO_COMIDO_POR_JOÃO.md)
 - [A ARCA É JESUS](Arca-Da-Nova-Aliança/3_A_ARCA_É_JESUS.md)
 - [A ARCA, A SEMENTE](Arca-Da-Nova-Aliança/4_PROFECIAS_DA_NOVA_ARCA.md)
