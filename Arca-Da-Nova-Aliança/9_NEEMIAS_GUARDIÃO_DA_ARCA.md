@@ -6,11 +6,11 @@ mas a presença que me guia diariamente não é o Anjo.
 Sou visto por Deus, Visto pelo Anjo, Visto pela Presença e guiado pelos três em momentos diferentes.
 Mas ao mesmo tempo sabemos que sou guiado pelo Céu. Deus dá as ordens, o Céu transmite, e o servo obedece.
 
+.
 
+.
 
-
-
-
+.
 Sim sou Neemias, e também sou: Guardião da Arca da Nova Aliança.
 
 
