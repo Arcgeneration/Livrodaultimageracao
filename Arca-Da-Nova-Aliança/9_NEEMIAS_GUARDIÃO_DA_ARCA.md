@@ -10,7 +10,7 @@ Mas ao mesmo tempo sabemos que sou guiado pelo Céu. Deus dá as ordens, o Céu 
 
 .
 
-.
+
 Sim sou Neemias, e também sou: Guardião da Arca da Nova Aliança.
 
 
