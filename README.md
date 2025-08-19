@@ -1,4 +1,4 @@
-# LAST GENERATION BOOK
+# LIVRO DA ULTIMA GERAÇÃO
 
 🕊️ Projeto oficial da Última Igreja — rolos, fundamentos, e testemunho global da Nova Aliança.
 
